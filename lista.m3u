@@ -1,2 +1,17 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="Firev4"
+#EXTINF:-1 tvg-id="s3:+SBT Kids" tvg-name="+SBT: Kids FHD" tvg-logo="http://canais.is/ss/sbtkids-channel-min.webp" group-title="Canais | SBT",+SBT: Kids FHD
+http://xc.sspkdns.com/live/551386517742/269483298941/1000000254.ts
+#EXTINF:-1 tvg-id="s3:+SBT Kids" tvg-name="+SBT: Kids HD" tvg-logo="http://canais.is/ss/sbtkids-channel-min.webp" group-title="Canais | SBT",+SBT: Kids HD
+http://xc.sspkdns.com/live/551386517742/269483298941/1100000254.ts
+#EXTINF:-1 tvg-id="s3:+SBT Kids" tvg-name="+SBT: Kids SD" tvg-logo="http://canais.is/ss/sbtkids-channel-min.webp" group-title="Canais | SBT",+SBT: Kids SD
+http://xc.sspkdns.com/live/551386517742/269483298941/1200000254.ts
+#EXTINF:-1 tvg-id="s3:+SBT Novelas" tvg-name="+SBT: Novelas FHD" tvg-logo="http://canais.is/ss/sbtnovelas-channel-min.webp" group-title="Canais | SBT",+SBT: Novelas FHD
+http://xc.sspkdns.com/live/551386517742/269483298941/1000000255.ts
+#EXTINF:-1 tvg-id="s3:+SBT Novelas" tvg-name="+SBT: Novelas HD" tvg-logo="http://canais.is/ss/sbtnovelas-channel-min.webp" group-title="Canais | SBT",+SBT: Novelas HD
+http://xc.sspkdns.com/live/551386517742/269483298941/1100000255.ts
+#EXTINF:-1 tvg-id="s3:+SBT Novelas" tvg-name="+SBT: Novelas SD" tvg-logo="http://canais.is/ss/sbtnovelas-channel-min.webp" group-title="Canais | SBT",+SBT: Novelas SD
+http://xc.sspkdns.com/live/551386517742/269483298941/1200000255.ts
+#EXTINF:-1 tvg-id="" tvg-name="+SBT: Show do Milhão" tvg-logo="https://stream.maissbt.com/uploads/8ca8a009-33e5-444c-80e4-18c7a1838243.png" group-title="Canais | SBT",+SBT: Show do Milhão
 #EXTINF:-1 tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2014/07/evolucao-logo-sbt.png" group-title="LANCAMENTOS", sbt (2017)
 https://gbbrslbps-sambatech.akamaized.net/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/media-uthylqh7n_1414.ts
