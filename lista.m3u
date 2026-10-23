@@ -15,3 +15,5 @@ http://xc.sspkdns.com/live/551386517742/269483298941/1200000255.ts
 #EXTINF:-1 tvg-id="" tvg-name="+SBT: Show do Milhão" tvg-logo="https://stream.maissbt.com/uploads/8ca8a009-33e5-444c-80e4-18c7a1838243.png" group-title="Canais | SBT",+SBT: Show do Milhão
 #EXTINF:-1 tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2014/07/evolucao-logo-sbt.png" group-title="LANCAMENTOS", sbt (2017)
 https://gbbrslbps-sambatech.akamaized.net/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/media-uthylqh7n_1414.ts
+#EXTINF:-1 tvg-id="SBT News" tvg-name="SBT News" tvg-language="pt-BR" tvg-country="BR" group-title="Notícias",SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
